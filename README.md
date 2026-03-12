@@ -48,9 +48,9 @@ My current learning path in Data Analysis includes:
 ---
 
 ## Projects
+**Sales Data Analysis (Excel)**  
+   Analyzed trends and visualized key metrics in a sample sales dataset.
 
-**Patient Survey Analysis (Excel)**  
-Analyzed patient survey data for healthcare insights, including charts and summaries.
 
 **Shopping List Comparison Analysis (Excel)**  
 Analyzed shopping list data to compare item prices and quantities, identifying spending patterns and summarizing results using tables and charts.
